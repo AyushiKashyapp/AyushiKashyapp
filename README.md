@@ -16,9 +16,9 @@
 
 - 💞️ Let’s build something awesome together! If you’re working on a data-driven project or just want to chat about the latest Kaggle competition, reach out. You can find me here:
 
-  [GitHub](github.com/ayushikashyap)
+  [GitHub](https://github.com/AyushiKashyapp)
 
-  [LinkedIn](linkedin.com/in/ayushikashyap)
+  [LinkedIn](https://www.linkedin.com/in/ayushi-kashyap/)
 
 <!---
 AyushiKashyapp/AyushiKashyapp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
