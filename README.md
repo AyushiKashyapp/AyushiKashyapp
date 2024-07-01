@@ -20,6 +20,7 @@
 
   [LinkedIn](https://www.linkedin.com/in/ayushi-kashyap/)
 
+- 🌐 Browse around for some interesting projects and exercises on NLP and Knowldege Graphs. And guess what! Each project comes with it's own Question Bank for learning and growing 🚀.
 <!---
 AyushiKashyapp/AyushiKashyapp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
